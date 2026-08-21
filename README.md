@@ -5,8 +5,8 @@ Status do Teste
 REQ-01
 Exibir título correto
 CT-01
-Pendente
+PASSOU
 REQ-02
 Conter botão de login
 CT-02
-Pendente
+PASSOU
